@@ -1,0 +1,653 @@
+{
+  "campaign": {
+    "id": "nxtwave-growth-01",
+    "name": "Campus AI 500 Sprint",
+    "workshop_title": "Build Your First AI Project in 60 Minutes",
+    "target_registrations": 500,
+    "campaign_duration_days": 7,
+    "current_day": 4,
+    "total_budget_inr": 2000,
+    "spent_budget_inr": 2000,
+    "status": "active",
+    "start_date": "2026-10-01",
+    "workshop_date": "2026-10-08"
+  },
+  "colleges": [
+    {
+      "id": "col-amrita",
+      "name": "Amrita Vishwa Vidyapeetham",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "tier": "Tier-1",
+      "registration_count": 78,
+      "referral_count": 52,
+      "ambassador_name": "Sai Bharadwaja"
+    },
+    {
+      "id": "col-1",
+      "name": "RV College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "tier": "Tier-1",
+      "registration_count": 74,
+      "referral_count": 48,
+      "ambassador_name": "Rohan Deshmukh"
+    },
+    {
+      "id": "col-2",
+      "name": "Chaitanya Bharathi Institute of Technology (CBIT)",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "tier": "Tier-2",
+      "registration_count": 62,
+      "referral_count": 39,
+      "ambassador_name": "Ananya Reddy"
+    },
+    {
+      "id": "col-3",
+      "name": "Vellore Institute of Technology (VIT)",
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "tier": "Tier-1",
+      "registration_count": 51,
+      "referral_count": 32,
+      "ambassador_name": "Tanvi Shah"
+    },
+    {
+      "id": "col-4",
+      "name": "PES University",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "tier": "Tier-2",
+      "registration_count": 38,
+      "referral_count": 21,
+      "ambassador_name": "Vikramaditya Rao"
+    },
+    {
+      "id": "col-5",
+      "name": "SRM Institute of Science and Technology",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "tier": "Tier-2",
+      "registration_count": 29,
+      "referral_count": 14,
+      "ambassador_name": "Meera Krishnan"
+    },
+    {
+      "id": "col-6",
+      "name": "BITS Pilani Hyderabad Campus",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "tier": "Tier-1",
+      "registration_count": 24,
+      "referral_count": 11,
+      "ambassador_name": "Campus Tech Lead"
+    },
+    {
+      "id": "col-7",
+      "name": "Osmania University College of Engineering",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "tier": "Tier-2",
+      "registration_count": 18,
+      "referral_count": 8,
+      "ambassador_name": "IEEE Student Chair"
+    },
+    {
+      "id": "col-8",
+      "name": "VNR Vignana Jyothi Institute",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "tier": "Tier-2",
+      "registration_count": 14,
+      "referral_count": 5,
+      "ambassador_name": "CSI Coordinator"
+    },
+    {
+      "id": "col-9",
+      "name": "BMS College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "tier": "Tier-2",
+      "registration_count": 12,
+      "referral_count": 4,
+      "ambassador_name": "AI Club President"
+    },
+    {
+      "id": "col-10",
+      "name": "MIT Manipal",
+      "city": "Manipal",
+      "state": "Karnataka",
+      "tier": "Tier-1",
+      "registration_count": 9,
+      "referral_count": 2,
+      "ambassador_name": "GDG Lead"
+    },
+    {
+      "id": "col-11",
+      "name": "PSG College of Technology",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "tier": "Tier-2",
+      "registration_count": 5,
+      "referral_count": 1,
+      "ambassador_name": "Placement Rep"
+    },
+    {
+      "id": "col-12",
+      "name": "COEP Technological University",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "tier": "Tier-1",
+      "registration_count": 3,
+      "referral_count": 1,
+      "ambassador_name": "Coding Club Lead"
+    },
+    {
+      "id": "col-13",
+      "name": "Thapar Institute of Engg & Tech",
+      "city": "Patiala",
+      "state": "Punjab",
+      "tier": "Tier-2",
+      "registration_count": 2,
+      "referral_count": 0,
+      "ambassador_name": "Campus Liaison"
+    },
+    {
+      "id": "col-14",
+      "name": "Delhi Technological University (DTU)",
+      "city": "Delhi",
+      "state": "Delhi",
+      "tier": "Tier-1",
+      "registration_count": 1,
+      "referral_count": 0,
+      "ambassador_name": "Branch CR"
+    }
+  ],
+  "ambassadors": [
+    {
+      "id": "amb-1",
+      "name": "Sai Bharadwaja",
+      "email": "sai.bharadwaja@amrita.edu",
+      "phone": "+91 98490 12345",
+      "college": "Amrita Vishwa Vidyapeetham",
+      "city": "Coimbatore",
+      "branch": "Computer Science & Engineering",
+      "referral_code": "SAI-AMRITA",
+      "target_quota": 50,
+      "total_reach": 520,
+      "registrations_count": 78,
+      "conversion_rate": 15.6,
+      "campus_rank": 1,
+      "status": "active",
+      "created_at": "2026-10-01T09:00:00Z"
+    },
+    {
+      "id": "amb-2",
+      "name": "Rohan Deshmukh",
+      "email": "rohan.rvce@gmail.com",
+      "phone": "+91 98801 67890",
+      "college": "RV College of Engineering",
+      "city": "Bengaluru",
+      "branch": "Information Science",
+      "referral_code": "ROHAN-RVCE",
+      "target_quota": 50,
+      "total_reach": 480,
+      "registrations_count": 74,
+      "conversion_rate": 15.4,
+      "campus_rank": 2,
+      "status": "active",
+      "created_at": "2026-10-01T09:30:00Z"
+    },
+    {
+      "id": "amb-3",
+      "name": "Tanvi Shah",
+      "email": "tanvi.vit@gmail.com",
+      "phone": "+91 97910 24680",
+      "college": "Vellore Institute of Technology (VIT)",
+      "city": "Vellore",
+      "branch": "Electronics & Communication",
+      "referral_code": "TANVI-VIT",
+      "target_quota": 50,
+      "total_reach": 360,
+      "registrations_count": 51,
+      "conversion_rate": 14.2,
+      "campus_rank": 3,
+      "status": "active",
+      "created_at": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "amb-4",
+      "name": "Vikramaditya Rao",
+      "email": "vikram.pes@gmail.com",
+      "phone": "+91 99002 13579",
+      "college": "PES University",
+      "city": "Bengaluru",
+      "branch": "Computer Science",
+      "referral_code": "VIKRAM-PES",
+      "target_quota": 50,
+      "total_reach": 290,
+      "registrations_count": 38,
+      "conversion_rate": 13.1,
+      "campus_rank": 4,
+      "status": "active",
+      "created_at": "2026-10-01T11:00:00Z"
+    },
+    {
+      "id": "amb-5",
+      "name": "Meera Krishnan",
+      "email": "meera.srm@gmail.com",
+      "phone": "+91 94440 98765",
+      "college": "SRM Institute of Science and Technology",
+      "city": "Chennai",
+      "branch": "Artificial Intelligence & Data Science",
+      "referral_code": "MEERA-SRM",
+      "target_quota": 50,
+      "total_reach": 240,
+      "registrations_count": 29,
+      "conversion_rate": 12.1,
+      "campus_rank": 5,
+      "status": "active",
+      "created_at": "2026-10-01T11:30:00Z"
+    }
+  ],
+  "students": [
+    {
+      "id": "std-1",
+      "name": "Sai Bharadwaja",
+      "email": "sai.bharadwaja@amrita.edu",
+      "phone": "+91 98765 43210",
+      "college": "Amrita Vishwa Vidyapeetham",
+      "city": "Coimbatore",
+      "branch": "Computer Science & Engineering",
+      "graduation_year": 2026,
+      "goal": "Need a standout AI project for upcoming campus placements",
+      "ai_experience": "intermediate",
+      "referral_code": "AI60-SAI88",
+      "referred_by": "SAI-AMRITA",
+      "growth_score": 88,
+      "readiness_status": "completed",
+      "project_submitted": true,
+      "project_title": "Campus Placement AI Resume-JD Matcher with RAG",
+      "created_at": "2026-10-01T14:20:00Z"
+    },
+    {
+      "id": "std-2",
+      "name": "Priya Nair",
+      "email": "priya.nair@cbit.ac.in",
+      "phone": "+91 98480 54321",
+      "college": "Chaitanya Bharathi Institute of Technology (CBIT)",
+      "city": "Hyderabad",
+      "branch": "Information Technology",
+      "graduation_year": 2026,
+      "goal": "Convert mini-project into a full LLM-powered capstone",
+      "ai_experience": "beginner",
+      "referral_code": "PRIYA-AI-314",
+      "referred_by": "ANANYA-CBIT",
+      "growth_score": 65,
+      "readiness_status": "in_progress",
+      "project_submitted": false,
+      "project_title": "Engineering Notes Summarizer & Flashcard Agent",
+      "created_at": "2026-10-01T15:10:00Z"
+    },
+    {
+      "id": "std-3",
+      "name": "Sneha Patel",
+      "email": "sneha.patel@vit.ac.in",
+      "phone": "+91 91760 12398",
+      "college": "Vellore Institute of Technology (VIT)",
+      "city": "Vellore",
+      "branch": "Computer Science",
+      "graduation_year": 2026,
+      "goal": "Get shortlisted for Tier-1 product company interviews",
+      "ai_experience": "intermediate",
+      "referral_code": "SNEHA-AI-441",
+      "referred_by": "TANVI-VIT",
+      "growth_score": 70,
+      "readiness_status": "completed",
+      "project_submitted": true,
+      "project_title": "Smart Code Reviewer Bot using Claude 3.5 & Git Hooks",
+      "created_at": "2026-10-01T16:45:00Z"
+    },
+    {
+      "id": "std-4",
+      "name": "Karthik Iyer",
+      "email": "karthik.pes@pes.edu",
+      "phone": "+91 98860 99887",
+      "college": "PES University",
+      "city": "Bengaluru",
+      "branch": "Electronics & Communication",
+      "graduation_year": 2026,
+      "goal": "Transition from core hardware to GenAI software engineering",
+      "ai_experience": "beginner",
+      "referral_code": "KARTHIK-AI-108",
+      "referred_by": "VIKRAM-PES",
+      "growth_score": 45,
+      "readiness_status": "in_progress",
+      "project_submitted": false,
+      "created_at": "2026-10-02T10:12:00Z"
+    },
+    {
+      "id": "std-5",
+      "name": "Amit Verma",
+      "email": "amit.verma@srmist.edu.in",
+      "phone": "+91 94450 11223",
+      "college": "SRM Institute of Science and Technology",
+      "city": "Chennai",
+      "branch": "Artificial Intelligence",
+      "graduation_year": 2026,
+      "goal": "Build end-to-end multimodal project before final semester review",
+      "ai_experience": "advanced",
+      "referral_code": "AMIT-AI-772",
+      "referred_by": "MEERA-SRM",
+      "growth_score": 90,
+      "readiness_status": "completed",
+      "project_submitted": true,
+      "project_title": "Multimodal Medical Prescription Explainer App",
+      "created_at": "2026-10-02T11:40:00Z"
+    }
+  ],
+  "referrals": [
+    {
+      "id": "ref-1",
+      "referrer_id": "std-1",
+      "referrer_name": "Rahul Sharma",
+      "referred_student_id": "std-6",
+      "referred_student_name": "Abhishek Gowda",
+      "source": "whatsapp",
+      "status": "completed",
+      "quality_score": 95,
+      "created_at": "2026-10-02T12:00:00Z"
+    },
+    {
+      "id": "ref-2",
+      "referrer_id": "std-1",
+      "referrer_name": "Rahul Sharma",
+      "referred_student_id": "std-7",
+      "referred_student_name": "Divya Murthy",
+      "source": "whatsapp",
+      "status": "completed",
+      "quality_score": 90,
+      "created_at": "2026-10-02T14:30:00Z"
+    },
+    {
+      "id": "ref-3",
+      "referrer_id": "std-1",
+      "referrer_name": "Rahul Sharma",
+      "referred_student_id": "std-8",
+      "referred_student_name": "Naveen Kumar",
+      "source": "whatsapp",
+      "status": "verified",
+      "quality_score": 85,
+      "created_at": "2026-10-03T09:15:00Z"
+    },
+    {
+      "id": "ref-4",
+      "referrer_id": "std-2",
+      "referrer_name": "Priya Nair",
+      "referred_student_id": "std-9",
+      "referred_student_name": "Sanjay Teja",
+      "source": "whatsapp",
+      "status": "completed",
+      "quality_score": 92,
+      "created_at": "2026-10-02T16:20:00Z"
+    },
+    {
+      "id": "ref-5",
+      "referrer_id": "std-2",
+      "referrer_name": "Priya Nair",
+      "referred_student_id": "std-10",
+      "referred_student_name": "Kavya Madhavan",
+      "source": "whatsapp",
+      "status": "pending",
+      "quality_score": 80,
+      "created_at": "2026-10-03T11:00:00Z"
+    },
+    {
+      "id": "ref-6",
+      "referrer_id": "std-3",
+      "referrer_name": "Sneha Patel",
+      "referred_student_id": "std-11",
+      "referred_student_name": "Arjun Subramaniam",
+      "source": "whatsapp",
+      "status": "completed",
+      "quality_score": 98,
+      "created_at": "2026-10-03T14:10:00Z"
+    }
+  ],
+  "channels": [
+    {
+      "id": "ch-1",
+      "name": "College Batch WhatsApp Groups",
+      "channel_key": "whatsapp_group",
+      "budget_allocated_inr": 0,
+      "budget_spent_inr": 0,
+      "registrations": 145,
+      "target_contribution": 210,
+      "conversion_rate": 24.2,
+      "cac_inr": 0.0,
+      "description": "Peer-shared links inside official and informal final-year B.Tech WhatsApp batch and placement groups."
+    },
+    {
+      "id": "ch-2",
+      "name": "Campus Ambassador Network",
+      "channel_key": "ambassador",
+      "budget_allocated_inr": 1000,
+      "budget_spent_inr": 1000,
+      "registrations": 98,
+      "target_contribution": 140,
+      "conversion_rate": 14.8,
+      "cac_inr": 10.2,
+      "description": "5 vetted campus leads across top engineering colleges equipped with personalized tracking codes and micro-incentive pool."
+    },
+    {
+      "id": "ch-3",
+      "name": "Student Tech Clubs & Placement Cell Networks",
+      "channel_key": "club_outreach",
+      "budget_allocated_inr": 400,
+      "budget_spent_inr": 400,
+      "registrations": 62,
+      "target_contribution": 90,
+      "conversion_rate": 18.5,
+      "cac_inr": 6.45,
+      "description": "Partnerships with IEEE/CSI/GDG student chapters; micro-sponsorship for exclusive club workshop acknowledgements."
+    },
+    {
+      "id": "ch-4",
+      "name": "Peer-to-Peer 1-on-1 Referrals",
+      "channel_key": "peer_referral",
+      "budget_allocated_inr": 0,
+      "budget_spent_inr": 0,
+      "registrations": 27,
+      "target_contribution": 40,
+      "conversion_rate": 41.2,
+      "cac_inr": 0.0,
+      "description": "Students unlocking the AI Resume Project Blueprint by referring their direct project teammates."
+    },
+    {
+      "id": "ch-5",
+      "name": "WhatsApp Automation & Guerrilla Social",
+      "channel_key": "direct_social",
+      "budget_allocated_inr": 600,
+      "budget_spent_inr": 600,
+      "registrations": 10,
+      "target_contribution": 20,
+      "conversion_rate": 6.5,
+      "cac_inr": 60.0,
+      "description": "WhatsApp Cloud API notification credits for instant referral code delivery and LinkedIn screen demo posts."
+    }
+  ],
+  "rewards": [
+    {
+      "id": "rew-1",
+      "title": "AI Resume Project Blueprint",
+      "description": "Battle-tested GitHub repository template + exact bullet points designed to pass placement ATS filters.",
+      "referrals_required": 1,
+      "reward_type": "digital_kit",
+      "is_unlocked": true,
+      "unlocked_count": 142
+    },
+    {
+      "id": "rew-2",
+      "title": "Google Colab Pro GPU Notebooks & API Keys Pass",
+      "description": "Pre-configured Jupyter/Colab environment with zero-setup access tokens for Gemini & Claude APIs.",
+      "referrals_required": 3,
+      "reward_type": "github_template",
+      "is_unlocked": true,
+      "unlocked_count": 68
+    },
+    {
+      "id": "rew-3",
+      "title": "1:1 AI Project Architecture Review with NxtWave Mentor",
+      "description": "Personalized 15-minute video critique on your capstone architecture and how to defend it to placement interviewers.",
+      "referrals_required": 5,
+      "reward_type": "mentor_session",
+      "is_unlocked": false,
+      "unlocked_count": 23
+    },
+    {
+      "id": "rew-4",
+      "title": "VIP Front-Row Q&A + Verified Capstone Honor Certificate",
+      "description": "Priority live Q&A in the workshop, spotlight on NxtWave LinkedIn alumni showcase, and verified digital credential.",
+      "referrals_required": 10,
+      "reward_type": "vip_pass",
+      "is_unlocked": false,
+      "unlocked_count": 7
+    }
+  ],
+  "milestones": [
+    {
+      "id": "m-1",
+      "level": 1,
+      "title": "Project Starter",
+      "referrals_threshold": 1,
+      "reward_description": "Unlock Resume Project Blueprint",
+      "growth_points": 50
+    },
+    {
+      "id": "m-2",
+      "level": 2,
+      "title": "AI Builder",
+      "referrals_threshold": 3,
+      "reward_description": "Unlock GPU Notebooks & API Keys",
+      "growth_points": 150
+    },
+    {
+      "id": "m-3",
+      "level": 3,
+      "title": "Campus Influencer",
+      "referrals_threshold": 5,
+      "reward_description": "1:1 Mentor Architecture Review",
+      "growth_points": 300
+    },
+    {
+      "id": "m-4",
+      "level": 4,
+      "title": "Growth Champion",
+      "referrals_threshold": 10,
+      "reward_description": "VIP Front-Row Pass & Showcase",
+      "growth_points": 600
+    }
+  ],
+  "experiments": [
+    {
+      "id": "exp-1",
+      "name": "WhatsApp 1-Click Viral Trigger vs Standard Copy-Paste Link",
+      "hypothesis": "Adding a pre-filled WhatsApp share button with a preview card increases referral completion by >50%.",
+      "variant_a": "Copy link only",
+      "variant_b": "Instant WhatsApp pre-filled message with deep link",
+      "metric": "Referral Share Rate",
+      "variant_a_rate": 12.4,
+      "variant_b_rate": 41.8,
+      "winner": "variant_b",
+      "sample_size": 240,
+      "status": "completed"
+    },
+    {
+      "id": "exp-2",
+      "name": "Resume Project Placement Hook vs Skill Certificate Hook",
+      "hypothesis": "Final-year students care about interview clearance 3x more than generic participation certificates.",
+      "variant_a": "Get Free AI Workshop Certificate",
+      "variant_b": "Put a Working AI Project on Your Resume in 60 Mins",
+      "metric": "Registration Form Conversion Rate",
+      "variant_a_rate": 14.1,
+      "variant_b_rate": 26.8,
+      "winner": "variant_b",
+      "sample_size": 310,
+      "status": "completed"
+    },
+    {
+      "id": "exp-3",
+      "name": "Ambassador Micro-bounties (\u20b9200 pool) vs Title-Only Recognition",
+      "hypothesis": "Allocating 50% of the \u20b92,000 budget to top 3 ambassador completion bonuses drives 2.4x higher campus group posts.",
+      "variant_a": "Honorary Campus Lead badge",
+      "variant_b": "Top 3 Leads share \u20b91,000 pool + Recommendation letter",
+      "metric": "Average Registrations per Ambassador",
+      "variant_a_rate": 7.2,
+      "variant_b_rate": 19.6,
+      "winner": "variant_b",
+      "sample_size": 12,
+      "status": "completed"
+    }
+  ],
+  "insights": [
+    {
+      "id": "ins-1",
+      "category": "channel_win",
+      "headline": "Peer-to-Peer WhatsApp loops generate 42.4% of all registrations at \u20b90 CAC",
+      "detail": "Engineering students trust direct WhatsApp recommendations from peers far more than sponsored ads. 142 students unlocked the Resume Blueprint by sharing with classmates.",
+      "suggested_action": "Double down on post-registration share triggers immediately upon form submission.",
+      "impact_score": "high"
+    },
+    {
+      "id": "ins-2",
+      "category": "opportunity",
+      "headline": "Final-year project panic is the single highest converting emotional trigger",
+      "detail": "Registrations spike 78% between 8 PM and 11 PM when students are discussing placement prep and project submissions in hostel groups.",
+      "suggested_action": "Schedule ambassador broadcast blasts specifically for 8:30 PM.",
+      "impact_score": "high"
+    },
+    {
+      "id": "ins-3",
+      "category": "bottleneck",
+      "headline": "Tier-3 college conversion drops if Python/GPU prerequisites appear complex",
+      "detail": "18% drop-off was detected when students worried about local machine requirements.",
+      "suggested_action": "Prominently display: Zero installation required \u2014 100% runs on Google Colab in browser.",
+      "impact_score": "medium"
+    },
+    {
+      "id": "ins-4",
+      "category": "milestone",
+      "headline": "Target 500 Run-Rate: Pacing at 48.8 regs/day vs 52.6 needed to finish ahead of schedule",
+      "detail": "With 342 registrations logged by Day 4, the campaign is on track to surpass 520+ registrations by Day 7 at current viral coefficient K=0.62.",
+      "suggested_action": "Activate the weekend referral booster challenge on Day 6.",
+      "impact_score": "high"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "title": "Milestone Reached: 342 Registrations!",
+      "message": "68.4% of the 500-student goal achieved in 4 days.",
+      "type": "milestone",
+      "timestamp": "10 mins ago",
+      "read": false
+    },
+    {
+      "id": "notif-2",
+      "title": "Viral Referral Loop Active",
+      "message": "Rahul Sharma just unlocked Reward Tier 2 with 3 verified peer signups.",
+      "type": "referral",
+      "timestamp": "25 mins ago",
+      "read": false
+    },
+    {
+      "id": "notif-3",
+      "title": "CBIT Hyderabad Climbing Leaderboard",
+      "message": "CBIT added 14 new registrations in the last 3 hours via Ananya Reddy.",
+      "type": "achievement",
+      "timestamp": "1 hour ago",
+      "read": true
+    }
+  ]
+}
