@@ -5,6 +5,7 @@
 **Target Duration:** Exactly 3 minutes (180 seconds)  
 **Word Count:** ~410 spoken words (Pacing: ~138 words per minute)  
 **Format:** Word-for-word spoken transcript with exact timestamps and visual screen cues  
+VIDEO LINK:https://drive.google.com/file/d/1B9eaGjTsV2Elc4wQ6DkampjRE_ncWWQ5/view
 
 ---
 
